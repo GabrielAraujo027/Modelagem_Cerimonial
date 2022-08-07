@@ -13,3 +13,7 @@
  Após a análise do modelo conceitual a seguir, foi desenvolvido o modelo lógico e gerado o código SQL por meio da ferramenta SQL Power Architect.
 ![imagem_modelo_conceitual](https://user-images.githubusercontent.com/103531983/183297571-23f44e57-f367-4399-9d0e-c9e7d807b3f4.png)
 ---------------
+## ✔️ Tecnologias utilizadas
+* ``SQL Power Architect``
+* ``BRModelo``
+* ``MySQL``
