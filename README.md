@@ -1,2 +1,8 @@
-# Modelagem_Cerimonial
-O modelo lógico foi feito com base em um modelo conceitual que está disposto no Readme do projeto. Todo o trabalho foi feito visando a criação de um modelo lógico com as primeiras regras de normalização de um SGBD.
+# Modelagem Cerimonial
+ O objetivo desse projeto é construir a modelagem lógica para um SGBD de um cerimonial.
+ As regras de normalização que estão sendo aplicadas nesse modelo são:
+ * Em geral, cada entidade deve ser implementada por uma tabela.
+ * Relacionamentos 1:n não formam tabelas.
+ * Relacionamentos n:n formam tabelas.
+ * Atributos semelhantes devem ter tipos de dados consistentes.
+ * Criação de tabelas para atributos ocultos ou multivalorados.
