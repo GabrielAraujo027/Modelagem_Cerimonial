@@ -17,3 +17,7 @@
 * ``SQL Power Architect``
 * ``BRModelo``
 * ``MySQL``
+
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/103320974?v=4" width=115><br><sub>Maria Fiorio</sub>](https://github.com/mariafiorio) |  [<img src="https://avatars.githubusercontent.com/u/102438061?v=4" width=115><br><sub>Julia Viana</sub>](https://github.com/066444) |  [<img src="https://avatars.githubusercontent.com/u/48932138?v=4" width=115><br><sub>Bruno Lokchin</sub>](https://github.com/Lokchin) | [<img src="https://avatars.githubusercontent.com/u/103531983?v=4" width=115><br><sub>Gabriel Araújo</sub>](https://github.com/GabrielAraujo027) |
+| :-: | :-: | :-: | :-:
