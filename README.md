@@ -1,4 +1,4 @@
-# Modelagem Cerimonial
+# Modelagem Cerimonial  <br> [![GitHub license](https://img.shields.io/github/license/GabrielAraujo027/Modelagem_Cerimonial)](https://github.com/GabrielAraujo027/Modelagem_Cerimonial/blob/main/LICENSE) ![desenvolvimento](https://img.shields.io/badge/status-completo-green)
 
  O objetivo desse projeto é construir a modelagem lógica para um SGBD de um cerimonial.
  As regras de normalização que estão sendo aplicadas nesse modelo são:
